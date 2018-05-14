@@ -1,7 +1,7 @@
 # Blazing Pitchfork Translations
 A Repository For Creating Translations To Allow The Game To Be Played In Multiple Languages
 # Important License Info: 
-These projects are officially-supported fan translations of Blazing Pitchfork. The Blazing Pitchfork Team may include content derived from these projects in official releases of Blazing Pitchfork without owing money or credit to anyone though major translators will see their name in the credits section. By contributing to these projects you agree to have your work included in a Blazing Pitchfork release without any compensation except for the satisfaction of the work and community. If your content is in any of these repos and you don't wish these terms to apply to you, contact me immediately at contactfarmageddon@gmail.com
+These projects are officially-supported fan translations of Blazing Pitchfork. The Blazing Pitchfork Team may include content derived from these projects in official releases of Blazing Pitchfork without owing money or credit to anyone though major translators will see their name in the credits section. By contributing to these projects you agree to have your work included in a Blazing Pitchfork release without any compensation except for the satisfaction of the work and community. If your content is in any of these repos and you don't wish these terms to apply to you, contact me immediately at contact@blazingpitchforks.com
 
 # Translating new languages
 If the language you wish to translate is not here follow these steps:
