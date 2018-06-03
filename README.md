@@ -8,17 +8,16 @@ If the language you wish to translate is not here follow these steps:
 
 1. Create a user on GitHub.com.
 2. Email us at contact@blazingpitchforks.com telling us the language and your GitHub user name. We will create a language file for you to work with.
-3. Download and install git.
-4. Make your translation and push it to GitHub. It will be included with future releases.
+3. Once approved, make your translation and push it to GitHub. It will be included with future releases.
 
 # Contributing to existing translations
 
-If you think one of the translation is missing pieces or has mistakes or just want to help please follow these steps:
+If you think one of the translations is missing pieces or has mistakes or just want to help please follow these steps:
 
 1. Create a user on GitHub.com.
-2. Email us at contact@blazingpitchforks.com telling us the language and your GitHub user name. We will give you access to the appropriate GitHub repository.
-3. Download and install git.
-4. Work with the other translators to improve the translation. Please try to contact existing translators before changing stuff.
+2. Edit the specified file and submit a pull request for us to accept
+
+Make sure to work with the other translators to improve the translation. Please try to contact existing translators before changing stuff. If you want to constantly update a language send us an email at contact@blazingpitchforks.com and we will give you permission so we don't have to worry about pull requests.
 
 # How to translate
 
