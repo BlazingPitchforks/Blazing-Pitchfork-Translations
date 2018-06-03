@@ -37,8 +37,12 @@ Navigate to the following directory:
 
 ![Alt text](Extra/Img1.PNG?raw=true "File Navigation On Windows")
 
+
 Then copy your new language file into that directory, make sure it has a custom name e.g TestLanguage. Relaunch/Launch the game then go to Options>General then change the language dropdown to your custom test language.
+
+
 ![Alt text](Extra/Img2.PNG?raw=true "Select New Custom Language")
+
 
 # Note: 
 All In Game Text Use The Language.txt File For Steam Requirements Please Make Edit's To The Global File. If You Wish To Translate A Steam Store Page Feel Free To Send Us An Email At contact@blazingpitchforks.com For More Info.
