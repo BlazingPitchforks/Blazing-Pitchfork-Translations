@@ -29,5 +29,13 @@ To translate just change the text in between the > & < arrow to the appropriate 
 
 This would replace in game the word Yes with I I!
 
+# To Test Translations In Game
+Navigate to the following directory:
+Windows: C:\Users\USERNAME\AppData\LocalLow\Not Enough Games\Blazing Pitchforks\LanguageFiles
+Mac: blah
+Linux/Steam OS: blah
+
+Then copy your new language file into that directory, make sure it has a custom name e.g TestLanguage. Relaunch/Launch the game then go to Options>General then change the language dropdown to your custom test language.
+
 # Note: 
 All In Game Text Use The Language.txt File For Steam Requirements Please Make Edit's To The Global File. If You Wish To Translate A Steam Store Page Feel Free To Send Us An Email At contact@blazingpitchforks.com For More Info.
