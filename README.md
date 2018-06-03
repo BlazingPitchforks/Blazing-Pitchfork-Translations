@@ -28,3 +28,5 @@ To translate just change the text in between the > & < arrow to the appropriate 
     <Yes>I I!</Yes>```
 
 This would replace in game the word Yes with I I!
+
+#Note: All In Game Text Use The Language.txt File For Steam Requirements Please Make Edit's To The Global File
