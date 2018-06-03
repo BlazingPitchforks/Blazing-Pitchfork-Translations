@@ -29,4 +29,4 @@ To translate just change the text in between the > & < arrow to the appropriate 
 
 This would replace in game the word Yes with I I!
 
-#Note: All In Game Text Use The Language.txt File For Steam Requirements Please Make Edit's To The Global File
+# Note: All In Game Text Use The Language.txt File For Steam Requirements Please Make Edit's To The Global File. If You Wish To Translate A Steam Store Page Feel Free To Send Us An Email At contact@blazingpitchforks.com For More Info.
