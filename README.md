@@ -34,7 +34,7 @@ Navigate to the following directory:
 Windows: C:\Users\USERNAME\AppData\LocalLow\Not Enough Games\Blazing Pitchforks\LanguageFiles
 Mac: blah
 Linux/Steam OS: blah
-![Alt text](/relative/Extra/Img1.PNG?raw=true "File Navigation On Windows")
+![Alt text](Extra/Img1.PNG?raw=true "File Navigation On Windows")
 
 Then copy your new language file into that directory, make sure it has a custom name e.g TestLanguage. Relaunch/Launch the game then go to Options>General then change the language dropdown to your custom test language.
 
